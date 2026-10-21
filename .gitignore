@@ -1,0 +1,17 @@
+
+# Downloaded datasets
+data/
+
+# R temporary and session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python/Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
